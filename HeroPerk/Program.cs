@@ -38,7 +38,7 @@ namespace HeroPerk
             if (playerPerks == Perks.None)
             {
                 Console.WriteLine("!No perks at all!");
-                Console.WriteLine("!Not gonna make it!");
+                
                 return;
             }
             
