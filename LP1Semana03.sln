@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayMul", "ArrayMul\ArrayM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroPerk", "HeroPerk\HeroPerk.csproj", "{30E8B6DA-92C8-4C88-B926-47537A80F5C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pow2Until", "Pow2Until\Pow2Until.csproj", "{EAE06E19-E1E5-4BC9-82F7-D4A6E5954A87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{30E8B6DA-92C8-4C88-B926-47537A80F5C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30E8B6DA-92C8-4C88-B926-47537A80F5C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30E8B6DA-92C8-4C88-B926-47537A80F5C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE06E19-E1E5-4BC9-82F7-D4A6E5954A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE06E19-E1E5-4BC9-82F7-D4A6E5954A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE06E19-E1E5-4BC9-82F7-D4A6E5954A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE06E19-E1E5-4BC9-82F7-D4A6E5954A87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
